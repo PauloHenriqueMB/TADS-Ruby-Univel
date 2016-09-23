@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: 
+  bio: MyText
+  score: 1
+  birth: 2016-09-22
+
+two:
+  name: 
+  bio: MyText
+  score: 1
+  birth: 2016-09-22
